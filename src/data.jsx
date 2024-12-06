@@ -72,7 +72,7 @@ export const teams = [
   {
     name:"Kisembo Moses",
     title:"Technician",
-    profile:member1,
+    profile:member2,
     social:[
       {name:"Facebook",icon:<CiFacebook/>,url:"http://facebook.com"},
       {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
@@ -83,7 +83,7 @@ export const teams = [
   {
     name:"Mary",
     title:"Technician",
-    profile:member2,
+    profile:member3,
     social:[
       {name:"Facebook",icon:<CiFacebook/>,url:"http://facebook.com"},
       {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
