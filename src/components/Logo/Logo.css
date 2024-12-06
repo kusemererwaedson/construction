@@ -1,0 +1,16 @@
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.logo .icon__container,
+.logo .name{
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    font-weight: 600;
+}
+.logo .icon__container{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}

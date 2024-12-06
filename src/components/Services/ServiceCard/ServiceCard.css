@@ -1,0 +1,31 @@
+.service__card{
+    background: var(--color-ui-secondary);
+    padding: 20px;
+    border-radius: var(--radius-3);
+    border: solid 2px transparent;
+    transition: var(--transition);
+    box-shadow: var(--shadow-1);
+}
+.service__card:hover{
+    border-color: var(--color-primary);
+    background: var(--color-ui-variant);
+}
+.service__card .icon__container{
+    font-size: 45px;
+    width: 4rem;
+    height: 4rem;
+}
+.service__card:hover .icon__container{
+    transform: scale(1.2);
+    color: var(--color-primary);
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
+.service__card .name{
+    font-size: 10px;
+    margin: 30px 0 10px 0;
+}
+.service__card .description{
+    font-size: 14px;
+}
