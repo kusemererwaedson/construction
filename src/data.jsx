@@ -70,7 +70,7 @@ export const services = [
 
 export const teams = [
   {
-    name:"Oluoma James",
+    name:"Kisembo Moses",
     title:"Technician",
     profile:member1,
     social:[
@@ -81,7 +81,7 @@ export const teams = [
     ]
   },
   {
-    name:"Mary Brown",
+    name:"Mary",
     title:"Technician",
     profile:member2,
     social:[
@@ -92,7 +92,7 @@ export const teams = [
     ]
   },
   {
-    name:"Lawrence Onu",
+    name:"Lawrence",
     title:"Technician",
     profile:member3,
     social:[
@@ -103,7 +103,7 @@ export const teams = [
     ]
   },
   {
-    name:"Joy Eze",
+    name:"Joy",
     title:"Technician",
     profile:member4,
     social:[
@@ -161,7 +161,7 @@ export const projects = [
 export const testimonial = [
   {
     image:profile2,
-    name:'Samuel Eze',
+    name:'Kisembo Moses',
     review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea veniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laboris`
@@ -175,7 +175,7 @@ export const testimonial = [
   },
   {
     image:profile4,
-    name:'Gloria Chiwendu',
+    name:'Gloria',
     review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea veniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laboris`
